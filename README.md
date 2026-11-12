@@ -14,3 +14,7 @@ This public repository is a sanitized portfolio edition for interviews and archi
 - Paper market simulations with no live-money execution
 
 The complete private deployment is maintained separately.
+
+## Interactive demo
+
+Open [the Orbit/J.A.R.V.I.S. showcase](demo/index.html) for a synthetic-data walkthrough. The demo runs locally in a browser and performs no real system or account actions. See [demo instructions](demo/README.md).

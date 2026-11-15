@@ -2,7 +2,7 @@
 
 Orbit is a local-first multi-agent assistant architecture with specialist agents, local models, typed tools, approval gates, and append-only audit records.
 
-This public repository is a sanitized portfolio edition for interviews and architecture review. It contains representative code and design documents only. It excludes credentials, personal data, private hostnames, account identifiers, runtime state, and live integration settings.
+This repository is a sanitized portfolio edition for interviews and architecture review. It contains representative code and design documents only. It excludes credentials, personal data, private hostnames, account identifiers, runtime state, and live integration settings.
 
 ## Highlights
 

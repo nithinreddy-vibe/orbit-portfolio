@@ -2,7 +2,14 @@
 
 This is a **standalone, synthetic-data showcase** of the Orbit assistant experience. It does not connect to Orbit, the local PC, email, Telegram, financial accounts, brokerage accounts, or smart-home devices. Buttons only update the page in your browser.
 
-## Version 2.0 showcase package`n`n- `index.html`: interactive browser demo with synthetic tasks and a visible approval boundary.`n- `linkedin-cover.png`: ready-to-attach LinkedIn image.`n- `linkedin-cover.svg`: editable cover source.`n- `LINKEDIN-POST.md`: suggested post copy.`n`n## Run locally
+## Version 2.0 showcase package
+
+- `index.html`: interactive browser demo with synthetic tasks and a visible approval boundary.
+- `linkedin-cover.png`: ready-to-attach LinkedIn image.
+- `linkedin-cover.svg`: editable cover source.
+- `LINKEDIN-POST.md`: suggested post copy.
+
+## Run locally
 
 Open `index.html` in a browser. It has no dependencies, API keys, sign-in, or network-service requirements.
 

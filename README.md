@@ -18,3 +18,7 @@ The complete private deployment is maintained separately.
 ## Interactive demo
 
 Open [the Orbit/J.A.R.V.I.S. showcase](demo/index.html) for a synthetic-data walkthrough. The demo runs locally in a browser and performs no real system or account actions. See [demo instructions](demo/README.md).
+
+## LinkedIn-ready showcase
+
+The [demo package](demo/README.md) includes the interactive preview, synthetic data, a LinkedIn cover image, and a draft post. It is a prototype showcase and performs no real actions.

@@ -1,3 +1,5 @@
+> Historical design/deployment note. This portfolio does not include the full deployment, referenced services, or all scripts. These notes are not a current security certification or runnable setup guide.
+
 # Orbit Personal AI System - Architecture and Safety Design
 
 Status: Phase 1 design  

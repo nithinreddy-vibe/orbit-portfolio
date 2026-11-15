@@ -22,3 +22,9 @@ Open [the Orbit/J.A.R.V.I.S. showcase](demo/index.html) for a synthetic-data wal
 ## LinkedIn-ready showcase
 
 The [demo package](demo/README.md) includes the interactive preview, synthetic data, a LinkedIn cover image, and a draft post. It is a prototype showcase and performs no real actions.
+
+## What you can run
+
+Open demo/index.html directly in your browser. It is a standalone simulation with no model, account, device, or network connection. The Python scenario files are small illustrative calculators. The full orchestrator and its integrations are maintained privately; the historical design notes describe a broader system and are not a complete deployment guide.
+
+Built by Nithin Reddy. This repository is published for portfolio review; no open-source license is granted by publication alone.

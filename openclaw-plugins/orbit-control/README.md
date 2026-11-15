@@ -1,3 +1,5 @@
+> Historical design/deployment note. This portfolio does not include the full deployment, referenced services, or all scripts. These notes are not a current security certification or runnable setup guide.
+
 # Orbit Control OpenClaw plugin
 
 This local plugin talks only to the Orbit Task API at `127.0.0.1:18082`. It exposes five fixed tools:

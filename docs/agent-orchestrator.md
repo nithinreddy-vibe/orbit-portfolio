@@ -1,3 +1,5 @@
+> Historical design/deployment note. This portfolio does not include the full deployment, referenced services, or all scripts. These notes are not a current security certification or runnable setup guide.
+
 # Orbit local AI orchestrator
 
 Orbit's local console now lists four specialist OpenClaw agents and lets the user assign one-time or recurring tasks. Open `http://127.0.0.1:18082/console` and use the **Orbit AI agents** panel. The runner checks the local OpenClaw Gateway and Ollama before claiming work, then records each result in the local Orbit database.
